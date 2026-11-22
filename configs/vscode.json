@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "hyperperps": {
+      "type": "http",
+      "url": "https://hyperperps.app/mcp"
+    }
+  }
+}
