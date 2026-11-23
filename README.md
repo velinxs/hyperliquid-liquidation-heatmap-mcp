@@ -89,7 +89,7 @@ Free use is 500 calls a day per IP. Keys for higher limits: [hyperperps.app/api-
 
 We're looking for sponsors. Want your project in front of Hyperliquid traders and the developers building on this data? Sponsor this repository.
 
-Get in touch: [open a sponsorship issue](https://github.com/velinxs/hyperliquid-liquidation-heatmap-mcp/issues/new?title=Sponsorship%20inquiry) or message us on [Discord](https://discord.gg/KWKK6Nfpy8).
+Get in touch: DM [@hyperperpsai on X](https://x.com/hyperperpsai), message us on [Discord](https://discord.gg/KWKK6Nfpy8), or [open a sponsorship issue](https://github.com/velinxs/hyperliquid-liquidation-heatmap-mcp/issues/new?title=Sponsorship%20inquiry).
 
 ## Links
 
@@ -97,6 +97,7 @@ Get in touch: [open a sponsorship issue](https://github.com/velinxs/hyperliquid-
 - Whale positioning: [hyperperps.app/whales](https://hyperperps.app/whales)
 - Official MCP Registry: `app.hyperperps/liquidation-heatmap`
 - Claude Code plugin: [velinxs/hyperperps-heatmap-plugin](https://github.com/velinxs/hyperperps-heatmap-plugin)
+- X: [@hyperperpsai](https://x.com/hyperperpsai)
 - Discord: https://discord.gg/KWKK6Nfpy8
 - [Privacy](https://hyperperps.app/privacy) · [Terms](https://hyperperps.app/terms)
 
