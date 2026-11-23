@@ -85,6 +85,12 @@ Examples: [Python](examples/top_walls.py) · [JavaScript](examples/top_walls.mjs
 
 Free use is 500 calls a day per IP. Keys for higher limits: [hyperperps.app/api-access](https://hyperperps.app/api-access).
 
+## Sponsors
+
+We're looking for sponsors. Want your project in front of Hyperliquid traders and the developers building on this data? Sponsor this repository.
+
+Get in touch: [open a sponsorship issue](https://github.com/velinxs/hyperliquid-liquidation-heatmap-mcp/issues/new?title=Sponsorship%20inquiry) or message us on [Discord](https://discord.gg/KWKK6Nfpy8).
+
 ## Links
 
 - Live heatmap: [Hyperliquid liquidation heatmap](https://hyperperps.app/hyperliquid-liquidation-heatmap)
