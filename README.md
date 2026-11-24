@@ -1,5 +1,7 @@
 # Hyperliquid Liquidation Heatmap MCP Server
 
+[![Hyperliquid Liquidation Heatmap by HyperPerps MCP connector](https://glama.ai/mcp/connectors/app.hyperperps/liquidation-heatmap/badges/score.svg)](https://glama.ai/mcp/connectors/app.hyperperps/liquidation-heatmap)
+
 Live Hyperliquid liquidation heatmap for AI assistants. Ask Claude, ChatGPT, Codex, Cursor or any MCP client where BTC, ETH, SOL and HYPE traders get liquidated, where their stop-losses and take-profits are stacked, and whether the crowd is net long or short.
 
 **See the live map:** [hyperperps.app/hyperliquid-liquidation-heatmap](https://hyperperps.app/hyperliquid-liquidation-heatmap)
